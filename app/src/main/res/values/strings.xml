@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Meu primeiro APP</string>
+    <string name="app_name">Meu primeiro App CCP3ANMCA</string>
+    <string name="dica_msg">Digite uma mensagem</string>
+    <string name="ok">OK</string>
 </resources>
